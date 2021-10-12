@@ -41,17 +41,13 @@ version 1.0.0
 
 ## Bugs
 
-If you encounter any bugs, email me on melissamalala@gmail.com. If you would like to add some changes, please feel free to
+If you encounter any bugs, email me on contact@iihsan.com. If you would like to add some changes, please feel free to
 fork the project and make a pull request.
 
 ## Authors
 
-MELISSA MALALA
+MUHAMMAD IHSAN
 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Moringa School
